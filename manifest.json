@@ -5,7 +5,7 @@
   "type": "mcp",
   "description": "Official Microsoft Playwright MCP server for browser automation through accessible page snapshots and browser actions.",
   "category": "Browser Automation",
-  "version": "0.0.83",
+  "version": "0.0.84",
   "author": {
     "name": "Microsoft Corporation"
   },
@@ -117,5 +117,7 @@
       "chrome"
     ],
     "env": {}
-  }
+  },
+  "schema_version": 1,
+  "tags": []
 }
